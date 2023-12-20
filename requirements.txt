@@ -1,0 +1,3 @@
+Processing IDE (latest version)
+Python Mode for Processing
+Minim Library for Processing
