@@ -8,7 +8,7 @@ Ensure you have Python installed on your machine. The game requires additional l
  
 ## Usage
 To start the game, run the main script in your Python environment:
-bash ``` python astro_mania.py
+```python astro_mania.py```
 
 ## Controls
 - Mouse Movement: Controls the spaceship.
